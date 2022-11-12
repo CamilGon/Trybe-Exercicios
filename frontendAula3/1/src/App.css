@@ -5,7 +5,6 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background-color: #9d809f;
 }
 
 .cardItem {
@@ -13,7 +12,7 @@
   background-color: white;
   border-radius: 10px;
   margin: 10px;
-  min-width: 260px;
+  min-width: 20%;
   text-align: center;
 }
 
@@ -23,11 +22,11 @@
   width: 100%;
   flex-wrap: wrap;
   justify-content: center;
-  background-color: #9d809f;
+  background-color: #65046a;
 }
 
 body {
-  background-color: #9d809f;
+  background-color: #531656;
 }
 
 input[type=text] {
