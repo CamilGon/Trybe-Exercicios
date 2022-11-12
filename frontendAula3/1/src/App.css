@@ -1,0 +1,38 @@
+.container {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.cardItem {
+  align-items: center;
+  background-color: white;
+  border-radius: 10px;
+  margin: 10px;
+  min-width: 20%;
+  text-align: center;
+}
+
+
+.card-content {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: #65046a;
+}
+
+body {
+  background-color: #531656;
+}
+
+input[type=text] {
+  width: 300px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
