@@ -1,2 +1,2 @@
-# Trybe-Exercicios
+# Exercicios
 Repositório de Exercícios 
